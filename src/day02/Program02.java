@@ -1,6 +1,6 @@
 package day02;
 
-public class Program02 {
+public class Program02{
 
 	
 	public static int fun()
